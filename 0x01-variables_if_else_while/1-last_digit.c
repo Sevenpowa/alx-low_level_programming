@@ -1,5 +1,3 @@
-able File  24 lines (22 sloc)  485 Bytes
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
